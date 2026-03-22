@@ -1,4 +1,4 @@
-# PyLadieSshizuoka-docs
+# PyLadies Shizuoka-docs
 Documentation and governance for PyLadies Shizuoka
 
 ## Code of Conduct
