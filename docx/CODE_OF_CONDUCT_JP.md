@@ -1,88 +1,54 @@
-# PyLadies Shizuoka Code of Conduct
+# PyLadies Shizuoka Community Charter
 
-Version: 1.2  
-Last updated: 2026-03-22  
-
----
-
-## About This Community
-
-PyLadies Shizuoka is a community where people connect through Python and learn together.
-
-We welcome people with diverse backgrounds, including engineers, learners, and non-engineers.  
-We aim to create a space where everyone can participate safely and contribute in their own way.
-
-This community follows the official PyLadies Code of Conduct.
+**Version:** 1.2  
 
 ---
 
-## Our Values
-
-- **Respect**  
-  We respect differences in experience, profession, age, and background.
-
-- **Learning Together**  
-  Both teaching and asking questions are part of learning.
-
-- **Contribution through Strengths**  
-  Everyone is encouraged to contribute in their own way.
-
-- **Psychological Safety**  
-  We value an environment where beginners feel safe to ask questions.
-
-- **Curiosity**  
-  We welcome interest and challenges in Python and technology.
+## 富士山のふもとで、Pythonとつながるコミュニティ
 
 ---
 
-## Encouraged Behavior
+## はじめに
 
-We encourage the following behaviors:
+PyLadies Shizuokaは、女性およびマイノリティの方々が、安心して学び、交流できる場を目指しています。
 
-- Welcoming “not knowing” as a starting point  
-- Communicating with consideration for others’ understanding levels  
-- Offering support and suggestions rather than criticism  
-- Respecting diverse perspectives and values  
-- Creating an atmosphere where everyone feels safe to speak  
+本コミュニティでは、すべての参加者が尊重され、心理的に安全な環境で過ごすことが可能であり、  
+「できる人が教える場」ではなく、「一緒に学ぶ場」であることを大切にしています。
 
----
-
-## Unacceptable Behavior
-
-The following behaviors are not allowed:
-
-- Harassment or discriminatory language or actions  
-- Intimidating or aggressive behavior  
-- Technical superiority-based “mounting” or belittling  
-- Dismissing or discouraging beginners  
-- Excessive criticism or hostile feedback  
-- Any behavior that makes others uncomfortable  
+※本コミュニティは、PyLadiesの公式Code of Conductに準拠しています。
 
 ---
 
-## Scope
+## 大切にしていること（推奨行動）
 
-This Code of Conduct applies to all community spaces, including:
-
-- Events (online and offline)  
-- Communication tools (Slack, social media, etc.)  
-- Any other community-related activities  
-
----
-
-## Reporting & Response
-
-If you experience or witness behavior that violates this Code of Conduct:
-
-- Please contact a community organizer or staff member  
-- You may also reach out via communication tools used by the community  
-
-The organizing team will respond appropriately and prioritize maintaining a safe environment.
+- 初心者の「わからない」を歓迎します  
+- 相手の理解度に合わせたコミュニケーションを心がけます  
+- 批判ではなく、サポートや提案を意識します  
+- 多様な背景・価値観を尊重します  
+- 安心して発言できる空気を一緒に作ります  
 
 ---
 
-## Revision History
+## 禁止される行為
 
-- v1.0 / Initial version  
-- v1.1 / Updates  
-- v1.2 / Refined structure and wording
+以下のような行為はお控えください：
+
+- 技術的優位性を利用したマウントや威圧的な言動  
+- 初心者を軽視・否定する発言  
+- ハラスメント、差別的な言動  
+- 過度な批判や攻撃的なフィードバック  
+- 他の参加者を不快にさせる行為  
+
+---
+
+## 何かあった場合
+
+不快な思いをされた場合や、気になることがあれば、  
+PyLadiesコミュニティのメンバーに助けを求めてください。
+
+以下のメンバーにご連絡いただけます：
+
+- スタッフ  
+- オーガナイザー  
+- チャットツールの管理者  
+- ウェブサイトの管理者  
