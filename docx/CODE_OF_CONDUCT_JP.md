@@ -8,7 +8,6 @@ PyLadies Shizuokaは、すべての参加者が安心して参加できるコミ
 本コミュニティは、以下のCode of Conductに従います：
 
 - [PyLadies Code of Conduct](https://pyladies.com/CodeOfConduct/)
-- [Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)
 
 ---
 
