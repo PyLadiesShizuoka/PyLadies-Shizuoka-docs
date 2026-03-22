@@ -1,88 +1,88 @@
-# PyLadies Shizuoka Code of Conduct
+# PyLadies Shizuoka 行動規範（Code of Conduct）
 
-Version: 1.2  
-Last updated: 2026-03-22  
-
----
-
-## About This Community
-
-PyLadies Shizuoka is a community where people connect through Python and learn together.
-
-We welcome people with diverse backgrounds, including engineers, learners, and non-engineers.  
-We aim to create a space where everyone can participate safely and contribute in their own way.
-
-This community follows the official PyLadies Code of Conduct.
+版：1.2  
+最終更新日：2026-03-22  
 
 ---
 
-## Our Values
+## このコミュニティについて
 
-- **Respect**  
-  We respect differences in experience, profession, age, and background.
+PyLadies Shizuoka は、Pythonをきっかけに人とつながり、学び合うコミュニティです。
 
-- **Learning Together**  
-  Both teaching and asking questions are part of learning.
+エンジニア、学習者、非エンジニアなど、多様なバックグラウンドを持つ人たちが、それぞれの得意を持ち寄りながら、安心して関われる場を目指しています。
 
-- **Contribution through Strengths**  
-  Everyone is encouraged to contribute in their own way.
-
-- **Psychological Safety**  
-  We value an environment where beginners feel safe to ask questions.
-
-- **Curiosity**  
-  We welcome interest and challenges in Python and technology.
+本コミュニティは、PyLadies公式のCode of Conductに準拠しています。
 
 ---
 
-## Encouraged Behavior
+## 大切にしている価値観
 
-We encourage the following behaviors:
+- **尊重（Respect）**  
+  経験、職業、年齢、背景の違いを尊重します。
 
-- Welcoming “not knowing” as a starting point  
-- Communicating with consideration for others’ understanding levels  
-- Offering support and suggestions rather than criticism  
-- Respecting diverse perspectives and values  
-- Creating an atmosphere where everyone feels safe to speak  
+- **学び合い（Learning Together）**  
+  教える人も、質問する人も、どちらも学びの一部です。
 
----
+- **得意で貢献する（Contribution through Strengths）**  
+  それぞれの得意な形でコミュニティに関わることを歓迎します。
 
-## Unacceptable Behavior
+- **心理的安全性（Psychological Safety）**  
+  初心者が安心して質問できる環境を大切にします。
 
-The following behaviors are not allowed:
-
-- Harassment or discriminatory language or actions  
-- Intimidating or aggressive behavior  
-- Technical superiority-based “mounting” or belittling  
-- Dismissing or discouraging beginners  
-- Excessive criticism or hostile feedback  
-- Any behavior that makes others uncomfortable  
+- **好奇心（Curiosity）**  
+  PythonやITへの興味や挑戦を歓迎します。
 
 ---
 
-## Scope
+## 推奨される行動
 
-This Code of Conduct applies to all community spaces, including:
+私たちは、以下のような行動を大切にします：
 
-- Events (online and offline)  
-- Communication tools (Slack, social media, etc.)  
-- Any other community-related activities  
-
----
-
-## Reporting & Response
-
-If you experience or witness behavior that violates this Code of Conduct:
-
-- Please contact a community organizer or staff member  
-- You may also reach out via communication tools used by the community  
-
-The organizing team will respond appropriately and prioritize maintaining a safe environment.
+- 「わからない」を出発点として歓迎する  
+- 相手の理解度に合わせたコミュニケーションを心がける  
+- 批判ではなく、サポートや提案を意識する  
+- 多様な背景・価値観を尊重する  
+- 誰もが安心して発言できる空気を一緒につくる  
 
 ---
 
-## Revision History
+## 禁止される行為
 
-- v1.0 / Initial version  
-- v1.1 / Updates  
-- v1.2 / Refined structure and wording
+以下のような行為は禁止します：
+
+- ハラスメントや差別的な言動  
+- 威圧的・攻撃的な言動  
+- 技術的優位性を利用したマウントや見下す行為  
+- 初心者を軽視・否定する発言  
+- 過度な批判や攻撃的なフィードバック  
+- その他、他の参加者を不快にさせる行為  
+
+---
+
+## 適用範囲
+
+本行動規範は、以下を含むすべてのコミュニティ活動に適用されます：
+
+- イベント（オンライン・オフライン）  
+- SlackやSNSなどのコミュニケーションツール  
+- その他、コミュニティに関連するすべての場  
+
+---
+
+## 相談・対応について
+
+本行動規範に関する問題や、不快な思いをされた場合は、運営メンバーまでご連絡ください。
+
+- イベントスタッフ  
+- オーガナイザー  
+- Slackなどの管理者  
+
+運営チームは、安心できる環境を守ることを最優先に対応します。
+
+---
+
+## 改訂履歴
+
+- v1.0 / 初版作成  
+- v1.1 / 内容更新  
+- v1.2 / 構成・表現の整理
